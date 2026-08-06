@@ -16,9 +16,9 @@ Traditional optimization methods become computationally expensive as portfolio c
 
 | Team Member | Contribution |
 |-------------|-------------|
-| **Naga Venkata Sahithi Parepalli-sahithiparepalli11@gmail.com** | Project Lead, Hybrid Quantum Framework, QAOA implementation, Desktop Application Development (PySide6 + QML), Documentation |
-| **A.V.preeti-amarapreeti21@gmail.com** | Classical optimization implementation, testing, validation |
-| **K.Mounika-kandivalasamounika9@gmail.com** | Research, visualization, presentation, result analysis |
+| **Naga Venkata Sahithi Parepalli - sahithiparepalli11@gmail.com** | Project Lead, Hybrid Quantum Framework, QAOA implementation, Desktop Application Development (PySide6 + QML), Documentation |
+| **A.V.preeti - amarapreeti21@gmail.com** | Classical optimization implementation, testing, validation |
+| **K.Mounika - kandivalasamounika9@gmail.com** | Research, visualization, presentation, result analysis |
 
 
 ---
