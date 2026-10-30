@@ -10,18 +10,7 @@ This project addresses the challenge of **portfolio optimization**, where invest
 
 Traditional optimization methods become computationally expensive as portfolio complexity grows. This project explores whether **hybrid quantum computing** can provide an effective alternative for solving such optimization problems.
 
----
 
-# 👥 Team Members & Contributions
-
-| Team Member | Contribution |
-|-------------|-------------|
-| **Naga Venkata Sahithi Parepalli - sahithiparepalli11@gmail.com** | Project Lead, Hybrid Quantum Framework, QAOA implementation, Desktop Application Development (PySide6 + QML), Documentation |
-| **A.V.preeti - amarapreeti21@gmail.com** | Classical optimization implementation, testing, validation |
-| **K.Mounika - kandivalasamounika9@gmail.com** | Research, visualization, presentation, result analysis |
-
-
----
 
 # 📖 Project Overview
 
